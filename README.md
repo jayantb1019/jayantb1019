@@ -1,1 +1,2 @@
-
+Hey   
+I'm Jayanth Boddu, and I've made it my mission to drag Seismic Imaging into the AI age, kicking and screaming, if necessary. At the intersection of Geophysics, Deep Learning, Computer Vision & Full stack Software Development, I'm building a future where AI accelerates sustainable energy discovery. Armed with a data science toolkit and an unquenchable deep learning obsession, I break barriers between academic papers and the gritty reality of energy exploration, one use case at a time. Currently, I'm spearheading initiatives to democratise AI based automation for geophysicists and developing scalable solutions that fundamentally transform how our industry processes seismic data.
